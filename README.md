@@ -29,7 +29,7 @@ Life is about learning and growing.
 
 ### ⚡Other things I enjoy: 
 
-- Reading as much as I can 
+- Reading as much as I can, fiction and non-fiction
 - Writing poems
 - Playing the piano
 - B&W film photography and silver gelatin printing in my darkroom
