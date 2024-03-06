@@ -25,7 +25,7 @@
 
 ### 🧐 My philosophy: 
 
-Life is about learning and growing. 
+- Life is about learning and growing. 
 
 ### ⚡Other things I enjoy: 
 
