@@ -20,6 +20,7 @@
 - No Social Media! - https://urlis.net/tyei5bx8
 - Think Content! - https://urlis.net/d9utdc3c
 - Frei und Kreativ! - https://shorturl.at/zFL15
+- Designing and Prototyping Interfaces with Figma - Second Edition: Elevate your design craft with UX/UI principles and create interactive prototypes - https://shorturl.at/luMQZ
 
 ### ⚡ On my "to learn" list: 
 
