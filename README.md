@@ -13,15 +13,18 @@
 ### 🌱 I’m currently learning: 
 
 - CSS Grid
-- Wordpress theme development
-- Javascript
-- Github 😁
+- Hugo 
+
+### 📚 On my "books to buy" list: 
+
+- No Social Media! - https://urlis.net/tyei5bx8
+- Think Content! - https://urlis.net/d9utdc3c
 
 ### ⚡ On my "to learn" list: 
 
-- React
+- React / Javascript
 - API's
-- Jekyll
+- Hugo 
 
 ### 🧐 My philosophy: 
 
